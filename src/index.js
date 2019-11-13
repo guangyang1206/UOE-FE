@@ -44,7 +44,7 @@ ReactDOM.render(
   <Provider store={ store }>
     <Router routes={ routes }>
       <div>
-        <NavigationBar />
+        {/* <NavigationBar /> */}
         <FlashMessagesList />
         { routes }
       </div>
