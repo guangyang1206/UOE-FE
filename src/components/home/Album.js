@@ -109,6 +109,11 @@ export default function Album() {
                     </Button>
                 </Link>
                 </Grid>
+                <Link href="/personalInfo" color="secondary">
+                    <Button variant="outlined" color="primary">
+                      Fill Personal Info
+                    </Button>
+                </Link>
               </Grid>
             </div>
           </Container>
