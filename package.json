@@ -21,7 +21,7 @@
     "redux-thunk": "^2.2.0",
     "shortid": "^2.2.8",
     "typeface-roboto": "0.0.75",
-    "validator": "^10.6.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
